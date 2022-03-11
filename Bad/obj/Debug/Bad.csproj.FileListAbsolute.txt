@@ -1,0 +1,8 @@
+C:\Users\bzdo1\Downloads\Bad\Bad\obj\Debug\Bad.csproj.AssemblyReference.cache
+C:\Users\bzdo1\Downloads\Bad\Bad\obj\Debug\Bad.csproj.SuggestedBindingRedirects.cache
+C:\Users\bzdo1\Downloads\Bad\Bad\obj\Debug\Bad.csproj.CoreCompileInputs.cache
+C:\Users\bzdo1\Downloads\Bad\Bad\bin\Debug\Bad.exe.config
+C:\Users\bzdo1\Downloads\Bad\Bad\bin\Debug\Bad.exe
+C:\Users\bzdo1\Downloads\Bad\Bad\bin\Debug\Bad.pdb
+C:\Users\bzdo1\Downloads\Bad\Bad\obj\Debug\Bad.exe
+C:\Users\bzdo1\Downloads\Bad\Bad\obj\Debug\Bad.pdb
