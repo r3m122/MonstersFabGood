@@ -1,0 +1,8 @@
+C:\Users\bzdo1\Downloads\Good\Good\obj\Debug\Good.csproj.AssemblyReference.cache
+C:\Users\bzdo1\Downloads\Good\Good\obj\Debug\Good.csproj.SuggestedBindingRedirects.cache
+C:\Users\bzdo1\Downloads\Good\Good\obj\Debug\Good.csproj.CoreCompileInputs.cache
+C:\Users\bzdo1\Downloads\Good\Good\bin\Debug\Good.exe.config
+C:\Users\bzdo1\Downloads\Good\Good\bin\Debug\Good.exe
+C:\Users\bzdo1\Downloads\Good\Good\bin\Debug\Good.pdb
+C:\Users\bzdo1\Downloads\Good\Good\obj\Debug\Good.exe
+C:\Users\bzdo1\Downloads\Good\Good\obj\Debug\Good.pdb
